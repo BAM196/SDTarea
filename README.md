@@ -2,7 +2,7 @@
 
 - Ejecutar en la terminal y directorio correspondiente al proyecto: docker-compose up --build
 - Verificar el funcionamiento por docker.desktop
-
+- El archivo /PROYECTOSD-MAIN/done.flag causa la ejecuación del scraper
 # Modificaciones posibles
 
 - Dentro de docker-compose.yml es posible cambiar las politicas de remoción del cache en environment: de redis-stack
